@@ -1,4 +1,5 @@
 # Titanium  
+## (if you want to download this mod go to [Titanium Download](https://modrinth.com/mod/titaniumod))
 A mod that optimizes stuff outside of Minecraft.  
   
 ### Will make a wiki for config soon
